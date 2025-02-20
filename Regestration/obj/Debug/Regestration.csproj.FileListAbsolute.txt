@@ -1,0 +1,17 @@
+C:\Users\M C\Desktop\C#\Regestration\Regestration\bin\Debug\Regestration.exe.config
+C:\Users\M C\Desktop\C#\Regestration\Regestration\bin\Debug\Regestration.exe
+C:\Users\M C\Desktop\C#\Regestration\Regestration\bin\Debug\Regestration.pdb
+C:\Users\M C\Desktop\C#\Regestration\Regestration\bin\Debug\Guna.UI2.dll
+C:\Users\M C\Desktop\C#\Regestration\Regestration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\M C\Desktop\C#\Regestration\Regestration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\M C\Desktop\C#\Regestration\Regestration\obj\Debug\Regestration.csprojAssemblyReference.cache
+C:\Users\M C\Desktop\C#\Regestration\Regestration\obj\Debug\Regestration.Form1.resources
+C:\Users\M C\Desktop\C#\Regestration\Regestration\obj\Debug\Regestration.Properties.Resources.resources
+C:\Users\M C\Desktop\C#\Regestration\Regestration\obj\Debug\Regestration.csproj.GenerateResource.cache
+C:\Users\M C\Desktop\C#\Regestration\Regestration\obj\Debug\Regestration.csproj.CoreCompileInputs.cache
+C:\Users\M C\Desktop\C#\Regestration\Regestration\obj\Debug\Regestration.csproj.CopyComplete
+C:\Users\M C\Desktop\C#\Regestration\Regestration\obj\Debug\Regestration.exe
+C:\Users\M C\Desktop\C#\Regestration\Regestration\obj\Debug\Regestration.pdb
+C:\Users\M C\Desktop\C#\Regestration\Regestration\bin\Debug\MetroFramework.Design.dll
+C:\Users\M C\Desktop\C#\Regestration\Regestration\bin\Debug\MetroFramework.dll
+C:\Users\M C\Desktop\C#\Regestration\Regestration\bin\Debug\MetroFramework.Fonts.dll
